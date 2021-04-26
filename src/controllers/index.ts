@@ -1,0 +1,6 @@
+export * from './actor-controller'
+export * from './director-controller'
+export * from './health-controller'
+export * from './movie-controller'
+export * from './security-controller'
+export * from './tvShow-controller'

@@ -1,0 +1,6 @@
+export * from './health-route'
+export * from './security-route'
+export * from './movie-route'
+export * from './tvShow-route'
+export * from './actor-route'
+export * from './director-route'
